@@ -1,5 +1,5 @@
 import React from "react";
-const ChildComponent1 = ({selectedOption, setSelectedOption})=>{
+const ChildComponent1 = ({ setSelectedOption})=>{
     return(
         <div>
             <h2>Child Component 1</h2>
